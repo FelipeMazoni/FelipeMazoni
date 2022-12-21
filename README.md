@@ -1,6 +1,6 @@
  ## Ola, Me chamo Felipe. 
 
-- 🔍 Hoje busco uma oportunidade como DEV.
+- 🔍 Hoje busco uma oportunidade como estagiário de DEV.
 - 🌱 Estudando HTML, CSS e Javascript.
 - 🤔 Aceito dicas para trabalhar com Cyber Security.
 - 😄 Pronomes: Ele/Dele
